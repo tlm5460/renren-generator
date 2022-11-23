@@ -6,7 +6,7 @@
 - 通过git下载源码
 - 修改application.yml，更新MySQL账号和密码、数据库名称
 - Eclipse、IDEA运行RenrenApplication.java，则可启动项目
-- 项目访问路径：http://localhost
+- 项目访问路径：http://localhost:8085/
 
 **如何交流、反馈、参与贡献？** 
 - Git仓库：https://gitee.com/renrenio/renren-generator
